@@ -11,7 +11,7 @@ const userInfoContainer = document.querySelector(".user-info-container");
 
 let currentTab = userTab;
 
-const API ="72b97ec0d6576b721aadd7c30fd55325";
+const API ="";
 
 currentTab.classList.add("current-tab");
 
